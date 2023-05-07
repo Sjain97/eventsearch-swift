@@ -27,7 +27,7 @@ The following functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-[![EventSearch - SwiftUI](swift-thumbnail)](https://www.youtube.com/watch?v=W3W9_pw-Bug)
+[![EventSearch - SwiftUI](https://img.youtube.com/vi/W3W9_pw-Bug/0.jpg)](https://www.youtube.com/watch?v=W3W9_pw-Bug)
 
 
 ## License
