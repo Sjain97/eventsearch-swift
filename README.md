@@ -25,10 +25,12 @@ The following functionality is completed:
 
 ## Video Walkthrough
 
-Here's a walkthrough (YouTube Link) of implemented user stories:
+Here's a walkthrough of implemented user stories:
+[YouTube Link](https://www.youtube.com/watch?v=W3W9_pw-Bug)
 
-[![EventSearch - SwiftUI](https://img.youtube.com/vi/W3W9_pw-Bug/0.jpg)](https://www.youtube.com/watch?v=W3W9_pw-Bug)
+<img src='https://github.com/Sjain97/eventsearch-swift/blob/main/event-search-swift.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+GIF created with [Kap](https://getkap.co/) for macOS
 
 ## License
 
