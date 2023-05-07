@@ -25,7 +25,7 @@ The following functionality is completed:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough (YouTube Link) of implemented user stories:
 
 [![EventSearch - SwiftUI](https://img.youtube.com/vi/W3W9_pw-Bug/0.jpg)](https://www.youtube.com/watch?v=W3W9_pw-Bug)
 
