@@ -30,8 +30,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/Sjain97/eventsearch-swift/blob/main/event-search-swift.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [Kap](https://getkap.co/) for macOS
-
 ## License
 
     Copyright [2023] [Shubham Jain]
